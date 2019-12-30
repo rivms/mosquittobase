@@ -1,0 +1,1 @@
+Dockerfile uses experimental Mosquitto Debian repository to install latest version of Mosquitto. Alternative would be to build from sources as done by the [offial image](https://hub.docker.com/_/eclipse-mosquitto). 
