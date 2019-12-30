@@ -22,3 +22,4 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 VOLUME ["/mosquitto/data", "/mosquitto/log"]
+EXPOSE 1883
